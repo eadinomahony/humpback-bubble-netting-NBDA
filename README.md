@@ -1,7 +1,10 @@
 # humpback-bubble-netting-NBDA
 A network based diffusion analysis of humpback whale bubble net feeding in the Kitimat Fjord System (NE Pacific).
 
-Code used in *The diffusion of cooperative and solo bubble net feeding in Canadian Pacific humpback whales* (Wray & O'Mahony, et al. submitted)
+Please cite:
+
+Wray, J., O'Mahony, É., Baer, G., Robinson, N., Dundas, A., Gaggiotti, O.E., Rendell, L., Keen, E.M. (in submission). *The diffusion of cooperative and solo bubble net feeding in Canadian Pacific humpback whales.*
+
 
 Maintained by Éadin N. O'Mahony (enao1@st-andrews.ac.uk).
 
