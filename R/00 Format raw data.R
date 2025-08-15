@@ -76,6 +76,10 @@ boat %>% names
 
 
 # Deal with Verney group in 2020 -- treat as one large group
+# The Verney Pass behaviour is well known to the area, where a large number of humpback coordinate their
+# (likely foraging) behaviour by all diving around the same time, and resurfacing around the same time.
+# We therefore treat these large groups as one.
+# This is not a cooperative bhv, we assume they are solo feeding at depth.
 (groups <- boat$`grp_#`)
 i <- grep('-', groups)
 groups[i]
